@@ -21,12 +21,5 @@ public class Hospital {
 		return consumers;
 	}
 
-	public void addDoctor(GeneralPractitioner j) {
-		// TODO Auto-generated method stub
-		
-	}
-
-
-
 
 }
